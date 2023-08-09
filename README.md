@@ -1,1 +1,2 @@
-# curso-git
+# Mi primer README
+¡Hola, mundo!
